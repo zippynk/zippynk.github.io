@@ -1,0 +1,23 @@
+{
+    "templates": {
+        "404": "404.html",
+        "header": "header.html",
+        "footer": "footer.html",
+        "postpage": "post.html",
+        "home": "home.html"
+    },
+    "posts": [
+        {
+            "title": "Hello World, and Some Prerequisites",
+            "author": "Nathan Krantz-Fire",
+            "description": "",
+            "file": "prerequisites.md",
+            "date": "5/30/15",
+            "markdown": true
+        }
+    ],
+    "title": "Musings of A Moderate Code and Copyright Maverick",
+    "author": "Nathan Krantz-Fire",
+    "description": "I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.",
+    "url": "http://zippynk.github.io"
+}

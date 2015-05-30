@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musings of A Moderate Code and Copyright Maverick]]></title>
+        <description><![CDATA[I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.]]></description>
+        <link>http://zippynk.github.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 30 May 2015 18:22:38 GMT</lastBuildDate>
+        <author><![CDATA[Nathan Krantz-Fire]]></author>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hello World, and Some Prerequisites]]></title>
+            <description><![CDATA[
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It seems customary that whenever someone writes a blog, they start out by writing a post titled, “Hello world!”. Some <a href="https://hardmath123.github.io/hw.html">follow with a series of hello world programs</a>, while others <a href="http://bobbybee.github.io/Hello-World.html">analyze the practice</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have decided, rather than to do either of these, to post a list of prerequisites - statements, opinions, and warnings about what to expect on this blog, since a lot of the content will involve naming controversies. And other similar things we should all spend less time arguing about. I will update the list as needed later.</p>
+<p>Prerequisite Statements for This Blog:</p>
+<ul>
+<li>There exists a controversy about whether to call it <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software#Controversy">free or open source software</a>, and another similar one about <a href="https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy">whether to call it Linux or GNU/Linux</a>. I have heard both sides of the argument and made the decision to call them open source and Linux, respectively. Although I may sometimes opt for neutral terms like FLOSS and (GNU/)Linux, I likely will not change the basis of my desicion any time soon, and if at some point I do, I will not change it because of a knee-jerk contradiction to my word usage.</li>
+<li>I’m not a big fan of standardized grammar. I follow it where I can, but I do not go out of my way to follow it. Therefore, some of these posts will have sentances that some people say are incorrect. At some point, perhaps I will elaborate on my opinion about this, but for now, just try to keep non-intrusive grammar errors to yourself. Intrusive thing, but, are importants changing.</li>
+<li>Yes, this blog is copyrighted. Yes, I’m considering whether to change it. No, I haven’t changed it yet.</li>
+<li>Hello world!</li>
+</ul>
+]]></description>
+            <link>http://zippynk.github.io/prerequisites.html</link>
+            <guid isPermaLink="true">http://zippynk.github.io/prerequisites.html</guid>
+            <dc:creator><![CDATA[Nathan Krantz-Fire]]></dc:creator>
+            <pubDate>Sat, 30 May 2015 07:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

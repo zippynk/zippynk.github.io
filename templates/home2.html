@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="style_main.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Musings of a Moderate Code and Copyright Maverick | Home</title>
+</head>
+<body>
+    {{{ header }}}
+	<div id="content">
+		<h1>Musings of a Moderate Code and Copyright Maverick</h1>
+	   <p>Hello. My name is Nathan Krantz-Fire. Sometimes, I go by the name zippynk. I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.</p>
+        <div id="posts-container">
+            <h2>Posts</h2>
+            {{ #posts }}
+                <p><strong><a href="{{ file }}">{{ title }}</a></strong></p>
+                <p>{{ description }}</p>
+            {{ /posts }}
+        </div>
+    </div>
+{{{ footer }}}
+</body>
+</html>
