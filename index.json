@@ -14,6 +14,14 @@
             "file": "prerequisites.md",
             "date": "5/30/15",
             "markdown": true
+        },
+        {
+            "title": "Why Open Source Consumer Software Lacks Quality",
+            "author": "Nathan Krantz-Fire",
+            "description": "An essay.",
+            "file": "why-open-source-consumer-software-lacks-quality.md",
+            "date": "5/31/15",
+            "markdown": true
         }
     ],
     "title": "Musings of A Moderate Code and Copyright Maverick",
