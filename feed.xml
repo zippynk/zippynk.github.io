@@ -5,7 +5,7 @@
         <description><![CDATA[I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.]]></description>
         <link>http://zippynk.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2015 22:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2015 22:40:04 GMT</lastBuildDate>
         <author><![CDATA[Nathan Krantz-Fire]]></author>
         <language><![CDATA[en]]></language>
         <item>
@@ -21,7 +21,7 @@
             <link>http://zippynk.github.io/why-open-source-consumer-software-lacks-quality.html</link>
             <guid isPermaLink="true">http://zippynk.github.io/why-open-source-consumer-software-lacks-quality.html</guid>
             <dc:creator><![CDATA[Nathan Krantz-Fire]]></dc:creator>
-            <pubDate>Sun, 31 May 2015 07:00:00 GMT</pubDate>
+            <pubDate>Thu, 04 Jun 2015 07:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello World, and Some Prerequisites]]></title>
