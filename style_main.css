@@ -46,10 +46,10 @@ body {
 	font-size:12pt;
 }
 ::selection {
-	background-color: #9F3;
+	background-color: #9E8;
 }
 ::-moz-selection {
-	background-color: #9F3;
+	background-color: #9E8;
 }
 #links {
 	float:right;
