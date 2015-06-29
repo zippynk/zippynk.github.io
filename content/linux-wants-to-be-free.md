@@ -1,3 +1,5 @@
+Note: This post assumes that the user wants to run proprietary software on Linux, as many, although definitely not all, Linux users do. The merit of the idea in the first place is the subject for a different blog post.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my last post, I wrote about problems with consumer open source software. However, regardless of the quality of their open source programs, one would still expect Linux-based systems to be usable with proprietary components, if only the companies that made said components ported them to Linux. Increasingly, we see them doing this, but they, and we, run into problems due to the open and gratis-oriented design of Linux and its counterparts.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you run any Linux distribution not related to Ubuntu, and try to run proprietary and/or paid software on it, you have probably experienced some frustration. Developers, when they first port to Linux-based systems, build their software to run on Ubuntu and other Debian-based distributions. On good days, they will sometimes port to RPM distros. The Linux user base, on the other hand, wants to use more than just Ubuntu and Red Hat.
@@ -17,3 +19,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That said, in order to fully embrace proprietary software, Linux users have to realize one more thing: It will not always be beautifully packaged. Developers that have experience coding for other operating systems want to keep the freedom of setting up their own, ugly, proprietary installers, and not sticking to packaging guidelines. If Linux users want proprietary software, they have to take the whole package: non-standardized installers and uninstallers, separate help systems, a lack of complete system integration into every possible custom configuration, etc. This understanding from the users, more than anything else, allows software developers to distribute their software effectively.
 
 \* Some Linux distributions, such as Ubuntu, have software stores. However, these lack standardization and wide acceptance, and work exclusively on one distribution (plus derivatives). Others have somewhat-convenient formats, such as .deb and .rpm, but these, again, lack standardization, and also tend to cause more hiccups than the .app files from Mac OS or the .exe files from Windows.
+
+Edited July 29, 2015 to add notice at the top.

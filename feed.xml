@@ -5,13 +5,14 @@
         <description><![CDATA[I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.]]></description>
         <link>http://zippynk.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2015 04:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2015 15:16:35 GMT</lastBuildDate>
         <author><![CDATA[Nathan Krantz-Fire]]></author>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Linux Wants To Be Free]]></title>
             <description><![CDATA[Why that's a problem, and who's doing what to solve it
 
+<p>Note: This post assumes that the user wants to run proprietary software on Linux, as many, although definitely not all, Linux users do. The merit of the idea in the first place is the subject for a different blog post.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my last post, I wrote about problems with consumer open source software. However, regardless of the quality of their open source programs, one would still expect Linux-based systems to be usable with proprietary components, if only the companies that made said components ported them to Linux. Increasingly, we see them doing this, but they, and we, run into problems due to the open and gratis-oriented design of Linux and its counterparts.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you run any Linux distribution not related to Ubuntu, and try to run proprietary and/or paid software on it, you have probably experienced some frustration. Developers, when they first port to Linux-based systems, build their software to run on Ubuntu and other Debian-based distributions. On good days, they will sometimes port to RPM distros. The Linux user base, on the other hand, wants to use more than just Ubuntu and Red Hat.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Linux “distro” model has no problem with distributing gratis, open source software. In this case, users eventually port the software to other distributions, since the license permits it, and they do not have to worry about collecting money. This works when people only use software that uses an open license and has no cost.</p>
@@ -22,6 +23,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SUSE, on the other hand, has tackled the problem of distro fragmentation. They built the Open Build Service, which allows developers to build and package their software for various different distributions. Despite the intention of this service’s use for open source software, SUSE has released the source code for the underlying platform itself. This means that developers can set up their own instances, modifying the platform as necessary, to distribute proprietary software.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That said, in order to fully embrace proprietary software, Linux users have to realize one more thing: It will not always be beautifully packaged. Developers that have experience coding for other operating systems want to keep the freedom of setting up their own, ugly, proprietary installers, and not sticking to packaging guidelines. If Linux users want proprietary software, they have to take the whole package: non-standardized installers and uninstallers, separate help systems, a lack of complete system integration into every possible custom configuration, etc. This understanding from the users, more than anything else, allows software developers to distribute their software effectively.</p>
 <p>* Some Linux distributions, such as Ubuntu, have software stores. However, these lack standardization and wide acceptance, and work exclusively on one distribution (plus derivatives). Others have somewhat-convenient formats, such as .deb and .rpm, but these, again, lack standardization, and also tend to cause more hiccups than the .app files from Mac OS or the .exe files from Windows.</p>
+<p>Edited July 29, 2015 to add notice at the top.</p>
 ]]></description>
             <link>http://zippynk.github.io/linux-wants-to-be-free.html</link>
             <guid isPermaLink="true">http://zippynk.github.io/linux-wants-to-be-free.html</guid>
