@@ -30,6 +30,14 @@
             "file": "linux-wants-to-be-free.md",
             "date": "6/28/15",
             "markdown": true
+        },
+        {
+            "title": "Nathan Krantz-Fire Private License, Version 0.1.5",
+            "author": "Nathan Krantz-Fire",
+            "description": "Please agree to the following REAR END USER LICENSE AGREEMENT.",
+            "file": "NKPL.md",
+            "date": "8/10/2015",
+            "markdown": true
         }
     ],
     "title": "Musings of A Moderate Code and Copyright Maverick",

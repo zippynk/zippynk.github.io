@@ -5,9 +5,34 @@
         <description><![CDATA[I'm a high school student who codes, sings, plays clarinet, writes music, and writes words. When I write words, I usually write them about Linuxy things. And sometimes other things.]]></description>
         <link>http://zippynk.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2015 15:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 03:41:45 GMT</lastBuildDate>
         <author><![CDATA[Nathan Krantz-Fire]]></author>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nathan Krantz-Fire Private License, Version 0.1.5]]></title>
+            <description><![CDATA[Please agree to the following REAR END USER LICENSE AGREEMENT.
+
+<p>This is a modern-consumer-oriented product (collectively, “The Software”). Usage of the product by the consumer is not permitted at any time, in any way, or for any reason.</p>
+<p>By reading this agreement, the user agrees:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;1) Not to acknowledge the existence of The Software to any other party at any time;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;2) Not to provide evidence of the existence of The Software, including but not limited to a verbatim or modified copy of The Software itself, to any party at any time; and</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;3) To legally protect, defend, and hold harmless Nathan Krantz-Fire and all of his subsidiaries (collectively, “His Majesty”) from all lawsuits that may come as a result of anything whatsoever (collectively, “The Buffalo Chips”).</p>
+<p>This is a legally binding agreement, and should be obeyed according to the laws of Imperial France.</p>
+<p>If any part of this agreement is deemed invalid (collectively, “Not Legit Enough”), The Customer shall follow it anyway, due to the legal system under which this license operates.</p>
+<p>Do you agree? (y/y) _</p>
+<p>How to use this notice for your own software:</p>
+<p>&nbsp;&nbsp;Please don’t use this for your own software.</p>
+<p>&nbsp;&nbsp;Please DO NOT use this for your own software.</p>
+<p>&nbsp;&nbsp;GOSHDARNIT THIS IS TERRIBLE DON’T USE IT FOR YOUR OWN SOFTWARE</p>
+<p>The text of this license is available under the Nathan Krantz-Fire Private License, Version 0.1.5, or at His Majesty’s choice, any goshdarned license.</p>
+<p>At your choice, you may also use it under the Creative Commons Attribution Non-Commercial No-Derivatives License, Version 4.0 International.</p>
+<p>More info is available at <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</a>.</p>
+]]></description>
+            <link>http://zippynk.github.io/NKPL.html</link>
+            <guid isPermaLink="true">http://zippynk.github.io/NKPL.html</guid>
+            <dc:creator><![CDATA[Nathan Krantz-Fire]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2015 07:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linux Wants To Be Free]]></title>
             <description><![CDATA[Why that's a problem, and who's doing what to solve it
